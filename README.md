@@ -15,8 +15,9 @@ Android Hack/Android Hack With Telegram Bot
 
 <a href="https://t.me/W8TeamSB"><img title="telegram" src="https://img.shields.io/badge/YouTube-W8Team-sky?style=for-the-badge&logo=Telegram"></a>
 
+[![Run on Replit](https://replit.com/badge/github/freeCodeCamp/Rust-in-Replit)](https://replit.com/github/W8SOJIB/W8DogiPro)
 
-####  Want to show support? Just spread the word and smash the star button
+##  Want to show support? Just spread the word and smash the star button
 
 ## [~] Find Me on :
 
